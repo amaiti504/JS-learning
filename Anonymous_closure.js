@@ -18,3 +18,5 @@
   console.log(avg());
   console.log(failing());
 }());
+// "Avg grade is 81.125"
+//"You have failed in 2 subjects"
